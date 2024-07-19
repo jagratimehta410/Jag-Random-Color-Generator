@@ -40,7 +40,7 @@ To get started with **Jag-RandomColorGenerator**, follow these steps:
 You can either clone the repository or download the ZIP file:
 
 ```bash
-git clone https://github.com/jagratimehta410/Jag-Random-Color-Generator/
+https://github.com/jagratimehta410/Jag-Random-Color-Generator/
 ```
 After cloning, open index.html in your web browser to start using the application.
 
