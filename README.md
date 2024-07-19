@@ -8,7 +8,7 @@ Welcome to **Jag-RandomColorGenerator**, a web application designed to generate 
 
 Check out the live demo of **Jag-RandomColorGenerator** here:
 
-[Live 👉 Click to Generate Random Colors!](https://yourusername.github.io/Jag-RandomColorGenerator/)
+[Live 👉 Click to Generate Random Colors!](https://jagratimehta410.github.io/Jag-Random-Color-Generator/)
 
 ## 📹 Demo Video
 
@@ -40,7 +40,7 @@ To get started with **Jag-RandomColorGenerator**, follow these steps:
 You can either clone the repository or download the ZIP file:
 
 ```bash
-git clone https://github.com/yourusername/Jag-RandomColorGenerator.git
+git clone https://github.com/jagratimehta410/Jag-Random-Color-Generator/
 ```
 After cloning, open index.html in your web browser to start using the application.
 
